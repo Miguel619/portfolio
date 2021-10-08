@@ -23,7 +23,7 @@ const Hero = () => (
         This website is to showcase my projects and so you can learn more about my technical knowledge and experience.
         Please feel free to reach out to me with any questions.
         </SectionText>
-        <Button onClick={() => window.location = 'https://www.linkedin.com/in/miguelmellado619/'}>Learn More</Button>
+        <Button onClick={() => window.location = 'https://www.linkedin.com/in/miguelmellado619/'}>Contact</Button>
       </LeftSection>
     </Section>
   </>
